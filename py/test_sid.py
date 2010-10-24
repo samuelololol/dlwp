@@ -9,31 +9,39 @@ import os
 import urllib
 import re
 
-const_source_url = 'http://phantom002.sakura.ne.jp/bbs2/index.html'
+ty_source_url = 'http://phantom002.sakura.ne.jp/bbs2/index.html'
+ty_img_url = 'http://phantom002.sakura.ne.jp/bbs2/'
+p1 = re.compile(r"""
+        画像タイトル：(.)+.$ 
+        """, re.VERBOSE | re.MULTILINE) 
 
-# A parser parse the image link from TypeMoon website
-#class TypeMoonParser(HTMLParser.HTMLParser):
-def test(url):
-    retval = urllib.urlopen(url)
-    while 1:
-        line = retval.readline()
-        if line:
-            print line
-        else:
-            break
-    return retval
+p2 = re.compile(r"""
+        src/[\d]+.[\w]+
+        """,re.VERBOSE)
+ty_img = []
+
 
 # using read() function to get the page content of Typemoon
-def ty_get_raw_page(url):
-    data = urllib.urlopen(url).read().decode('shift-jis').encode('utf-8')
+def ty_get_raw_page(url,decode,encode):
+    data = urllib.urlopen(url).read().decode(decode).encode(encode)
     return data
 
 # do some regular expression test
-def ty_test_re(data):
-    p1 = re.compile(r"画像タイトル：") 
-    return data
+def ty_test_re1(data):
+    out = p1.finditer(data)
+    return out
 
-source_cont = ty_get_raw_page(const_source_url)
-source_cont_after_re = ty_test_re(source_cont)
+def ty_test_re2(line):
+    name = p2.findall(line)
+    return name
+    #return line
 
-print source_cont_after_re
+def ty_re(data):
+    outiter = p1.finditer(data)
+    for out in outiter:
+        ty_img.append(ty_img_url+p2.findall(out.group())[0]) 
+    return ty_img
+
+source_cont_page = ty_get_raw_page(ty_source_url,'shift-jis','utf-8')
+
+print ty_re(source_cont_page)
