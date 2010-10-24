@@ -7,7 +7,7 @@
 #
 import os
 import urllib
-import re
+import lxml
 
 const_source_url = 'http://phantom002.sakura.ne.jp/bbs2/index.html'
 
@@ -30,8 +30,9 @@ def ty_get_raw_page(url):
 
 # do some regular expression test
 def ty_test_re(data):
-    p1 = re.compile(r"画像タイトル：") 
     return data
+    
+# using xpath
 
 source_cont = ty_get_raw_page(const_source_url)
 source_cont_after_re = ty_test_re(source_cont)
