@@ -25,7 +25,8 @@ def geo_re_func(img):
         file = filename[9]
         download_img(link, file)
         #print file, link
-        img.append(link)
+        #img.append(link)
+        img.append(file)
 
         #geo_dict[link] = file
         #print geo_dict

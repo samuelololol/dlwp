@@ -6,6 +6,7 @@ from dl_kon import kon_re_func
 from dl_ty  import ty_re_func
 from dl_geo import geo_re_func
 from dl_img import download_img
+from subprocess import call
 
 ty_img = []
 kon_img = []
@@ -19,7 +20,9 @@ def main():
     #print ty_img
 
     geo_re_func(geo_img)
-    print geo_img
+    #print geo_img[0]
+    call(['ln', '-sf', '/home/samuel/test/test_git/dlwp/py/'+geo_img[0], '/home/samuel/test/test_git/dlwp/py/wallpaper'])
+
 
 
 
