@@ -13,13 +13,13 @@ kon_img = []
 geo_img = []
 
 def main():
-    kon_re_func(kon_img) 
-    print kon_img
+    #kon_re_func(kon_img) 
+    #print kon_img
 
     #ty_re_func(ty_img) 
     #print ty_img
 
-    #geo_re_func(geo_img)
+    geo_re_func(geo_img)
     #print geo_img[0]
 
     #under linux, but it should be done by another script base on OS instead of python-script
