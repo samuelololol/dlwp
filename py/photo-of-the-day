@@ -1,0 +1,3125 @@
+﻿
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+
+
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:pas="http://sitelifeapi.pluck.com/2009/pluckApplicationServer" xml:lang="en" lang="en">
+
+
+
+
+    
+    <head>
+    
+        <script type="text/javascript">
+            var startTime = new Date().getTime();
+            var navFlyouts = { template_dir: '/common/nav-flyout/' };
+        </script>
+    
+
+    
+        
+	
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+        <meta http-equiv="Content-Language" content="en-us" />
+
+        <!-- Robots metadata -->
+        <meta name="robots" content="all" />
+        <meta name="google-site-verification" content="2ixYEN-8M4fZTstcEhbqVJHmtIpX5dj2v5yOMypYkJ4" />
+
+        <!-- Copyright metadata -->
+        <meta name="copyright" content="National Geographic" />
+        <!-- (c) Copyright  by National Geographic All Rights Reserved. -->
+
+        <!-- Page metadata -->
+        <meta name="description" content="See a photo of storm clouds over a cornfield in Utah, and download free wallpaper from National Geographic." />
+        <meta name="keywords" content="storm clouds photo, utah picture, travel photo, national geographic, photography, wallpaper" />
+        <meta name="author" content="National Geographic Society" />
+        
+	<link rel="alternate" type="application/rss+xml" title="National Geographic Photo of the Day [RSS]" href=" http://feeds.nationalgeographic.com/ng/photography/photo-of-the-day/">
+
+
+        
+        <link rel="icon" type="image/x-icon" href="http://images.nationalgeographic.com/wpf/sites/common/i/icons/favicon-cb1274471343.ico" />
+        
+
+
+
+        
+        <title>Storm Clouds Photo – Utah Wallpaper – National Geographic Photo of the Day</title>
+        
+
+    
+
+    
+        <!-- CSS -->
+        
+	
+        <link href="http://images.nationalgeographic.com/wpf/sites/themes/unified/c/reset-cb1274462936.css" media="screen" rel="stylesheet" type="text/css" /><!-- Reset -->
+        <link href="http://images.nationalgeographic.com/wpf/sites/themes/global/c/screen_temp-cb1277328512.css" media="screen" rel="stylesheet" type="text/css" /><!-- Controls Top Hat Elements -->
+        <link href="http://images.nationalgeographic.com/wpf/sites/common/c/utility-cb1274471335.css" media="screen" rel="stylesheet" type="text/css" /><!-- Controls Global Utility Elements -->
+        <link href="http://images.nationalgeographic.com/wpf/sites/common/c/screen-cb1289422648.css" media="screen" rel="stylesheet" type="text/css" /><!-- Controls Global Site Elements -->
+        <link href="http://images.nationalgeographic.com/wpf/sites/common/c/jcarousel/jcarousel-cb1274471334.css" media="screen" rel="stylesheet" type="text/css" />
+        <link href="http://images.nationalgeographic.com/wpf/sites/common/c/jcarousel/skins/geocore/skin-cb1279052671.css" media="screen" rel="stylesheet" type="text/css" />
+        <!-- JS-enabled styles -->
+        <link href="http://images.nationalgeographic.com/wpf/sites/common/c/js_enabled-cb1291917874.css" media="screen" rel="stylesheet" type="text/css" />
+        <!-- start css js manager -->
+<!-- site_files -->
+
+<!-- taxi_files -->
+
+<!-- greedy_url_files -->
+
+<!-- url_files -->
+
+<!-- end css js manager -->
+
+        
+	<link href="http://images.nationalgeographic.com/wpf/sites/photography/c/screen-cb1291321885.css" media="screen" rel="stylesheet" type="text/css" /><!-- Controls Photography Site Elements -->
+
+
+        
+        <link href="http://images.nationalgeographic.com/wpf/sites/common/c/print-cb1274471335.css" media="print" rel="stylesheet" type="text/css" /><!-- Controls Global Site Elements -->
+        
+
+        
+    <!--[if IE 7]>
+        <link href="http://images.nationalgeographic.com/wpf/sites/themes/global/c/ie7-cb1291917864.css" media="screen" rel="stylesheet" type="text/css" />
+        <link href="http://images.nationalgeographic.com/wpf/sites/themes/unified/c/ie7-cb1274462936.css" media="screen" rel="stylesheet" type="text/css" />
+        <link href="http://images.nationalgeographic.com/wpf/sites/common/c/ie7-cb1284660367.css" media="screen" rel="stylesheet" type="text/css" />
+    <![endif]-->
+
+    <!--[if lt IE 7]>
+        <link href="http://images.nationalgeographic.com/wpf/sites/themes/global/c/ie6-cb1274462930.css" media="screen" rel="stylesheet" type="text/css" />
+        <link href="http://images.nationalgeographic.com/wpf/sites/themes/unified/c/ie6-cb1274462936.css" media="screen" rel="stylesheet" type="text/css" />
+        <link href="http://images.nationalgeographic.com/wpf/sites/common/c/ie6-cb1274471336.css" media="screen" rel="stylesheet" type="text/css" />
+    <![endif]-->
+        
+
+    
+
+    
+        
+        <!-- JAVASCRIPT -->
+        <script type="text/javascript">
+            var staticURL = 'http://images.nationalgeographic.com/wpf/';
+            var rpxNowRealm = 'signin.nationalgeographic.com';
+            var django_page_id = '13681';
+            var process_url = 'http://pluck.nationalgeographic.com/ver1.0/Direct/Process';
+            var baseURL = window.location.hostname;
+            var pathURL = window.location.pathname;
+            var ssoURL = 'https://'+rpxNowRealm+'/openid/v2/signin?token_url=http://'+baseURL+'/rest/sso/rpx_response/?next='+pathURL+'';
+            var loginLink = '<a href="'+ssoURL+'" class="rpxnow" onClick="RPXNOW.show(); return false;">Sign In</a>';
+        </script>
+        <script src="http://images.nationalgeographic.com/wpf/sites/common/j/jquery/jquery_1.3.2.min-cb1274471348.js" type="text/javascript" ></script>
+        <script src="http://pluck.nationalgeographic.com/ver1.0/Content/ua/scripts/pluckApps.js" type="text/javascript"></script>
+        <script src="http://pluck.nationalgeographic.com/ver1.0/Content/direct/scripts/DirectProxyFast.js" type="text/javascript"></script>
+    
+
+    
+	
+        <script src="http://images.nationalgeographic.com/wpf/sites/common/j/jquery.plugins-cb1291236103.js" type="text/javascript"></script>
+        <script src="http://images.nationalgeographic.com/wpf/sites/common/j/jquery.jcarousel.pack-cb1274471350.js" type="text/javascript"></script>
+    
+	<script src="http://images.nationalgeographic.com/wpf/sites/common/j/jquery.rating.pack-cb1274471350.js" type="text/javascript" ></script>
+
+
+    
+        <script src="http://images.nationalgeographic.com/wpf/sites/themes/global/j/tophat-cb1278944848.js" type="text/javascript"></script>
+        <script src="http://images.nationalgeographic.com/wpf/sites/common/j/general-cb1290606334.js" type="text/javascript"></script>
+    
+
+
+    
+        
+        <script type="text/javascript" charset="utf-8">
+        var taxName = 'photography.nationalgeographic.com::photography::photo-of-the-day::Travel';
+        var taxBreak = taxName.split("::");
+        taxBreak[2] = taxBreak[2].replace(/&amp;/g,"&");
+        taxBreak[2] = taxBreak[2].replace(/A-Z/g, "A–Z");
+        taxonomy = {site:taxBreak[0],name:taxBreak[2]};
+        </script>
+        
+    
+
+    
+        
+    
+
+    
+    </head>
+    
+
+
+
+
+    <body class="photography boxgrid level_3 pod">
+        <div id="flyout_container"></div>
+        
+
+
+
+	
+    
+        
+    
+
+    
+
+    
+        
+
+
+<div id="navigation_tophat_container">
+	<!-- SKIP NAVIGATION -->
+	<p id="skip_navigation" class="hidden"><a href="#content">Skip to this page's content</a></p>
+	<div id="navigation_mainA"  class="clearfix">
+		
+		<!-- HEADER ADVERTISEMENT -->
+		<div id="headerboard" class="clearfix">
+			
+			<div class="pushdown advertisement hidden">
+				<h3 class="hidden">Advertisement</h3>
+
+        		<!-- advertising -->
+
+<div id="advertisingModuleZonepod_travel970x66">
+
+
+	
+		<script type="text/javascript" charset="utf-8">
+		//<![CDATA[
+		// uri: /photo-of-the-day/
+		// site_name: photography
+		// zone: pod_travel
+		// width: 970
+		// height: 66
+		// keywords: 
+		// bust: 387155940
+		// tile: 106
+		// refreshable: False
+		// regex: ^/[.]*
+		// page_taxonomy: photography.nationalgeographic.com::photography::photo-of-the-day::Travel
+		// ad_taxonomy: photography.nationalgeographic.com::photography::photo-of-the-day::Travel
+		// taxonomy_match: True
+			var only;
+			if (typeof only == 'undefined'){only=1;dc=";dcopt=ist";} 
+			else {only+=1;dc="";}
+
+			var bust;
+			if (typeof bust == 'undefined') {
+				bust = Math.floor(1000000*Math.random());
+			}
+		   if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || navigator.userAgent.indexOf("WebTV")>= 0) {
+		   document.write('<a href="http://ad.doubleclick.net/jump/ng.photography/pod_travel'+dc+';sz=970x66;tile='+only+';ord='+bust+'">');
+		   document.write('<img src="http://ad.doubleclick.net/ad/ng.photography/pod_travel'+dc+';sz=970x66;tile='+only+';ord='+bust+'" border="0" height="66" width="970" /></a>');
+		   } else {
+		   document.write('<scr' + 'ipt language="JavaScript1.1" src="http://ad.doubleclick.net/adj/ng.photography/pod_travel'+dc+';sz=970x66;tile='+only+';ord='+bust+'">');
+		   document.write('<a href="http://ad.doubleclick.net/jump/ng.photography/pod_travel'+dc+';sz=970x66;tile='+only+';ord='+bust+'">');
+		   document.write('<img src="http://ad.doubleclick.net/ad/ng.photography/pod_travel'+dc+';sz=970x66;tile='+only+';ord='+bust+'" border="0" height="66" width="970" /></a>');
+		   document.write('</scr' + 'ipt>');
+		   }
+		//]]>
+		</script>	
+		<noscript>
+			<a href="http://ad.doubleclick.net/jump/ng.photography/pod_travel;sz=970x66;tile=106;ord=387155940">
+			<img src="http://ad.doubleclick.net/ad/ng.photography/pod_travel;sz=970x66;tile=106;ord=387155940" border="0" height="66" width="970" /></a>
+		</noscript>
+
+</div>
+
+        	</div><!-- .pushdown .advertisement -->
+			<div class="leaderboard advertisement hidden">
+				<h3 class="hidden">Advertisement</h3>
+				
+					
+						
+							
+
+								<!-- advertising -->
+
+<div id="advertisingModuleZonepod_travel728x90">
+
+
+	
+		<script type="text/javascript" charset="utf-8">
+		//<![CDATA[
+		// uri: /photo-of-the-day/
+		// site_name: photography
+		// zone: pod_travel
+		// width: 728
+		// height: 90
+		// keywords: 
+		// bust: 296250156
+		// tile: 180
+		// refreshable: False
+		// regex: ^/[.]*
+		// page_taxonomy: photography.nationalgeographic.com::photography::photo-of-the-day::Travel
+		// ad_taxonomy: photography.nationalgeographic.com::photography::photo-of-the-day::Travel
+		// taxonomy_match: True
+			var only;
+			if (typeof only == 'undefined'){only=1;dc=";dcopt=ist";} 
+			else {only+=1;dc="";}
+
+			var bust;
+			if (typeof bust == 'undefined') {
+				bust = Math.floor(1000000*Math.random());
+			}
+		   if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || navigator.userAgent.indexOf("WebTV")>= 0) {
+		   document.write('<a href="http://ad.doubleclick.net/jump/ng.photography/pod_travel'+dc+';sz=728x90;tile='+only+';ord='+bust+'">');
+		   document.write('<img src="http://ad.doubleclick.net/ad/ng.photography/pod_travel'+dc+';sz=728x90;tile='+only+';ord='+bust+'" border="0" height="90" width="728" /></a>');
+		   } else {
+		   document.write('<scr' + 'ipt language="JavaScript1.1" src="http://ad.doubleclick.net/adj/ng.photography/pod_travel'+dc+';sz=728x90;tile='+only+';ord='+bust+'">');
+		   document.write('<a href="http://ad.doubleclick.net/jump/ng.photography/pod_travel'+dc+';sz=728x90;tile='+only+';ord='+bust+'">');
+		   document.write('<img src="http://ad.doubleclick.net/ad/ng.photography/pod_travel'+dc+';sz=728x90;tile='+only+';ord='+bust+'" border="0" height="90" width="728" /></a>');
+		   document.write('</scr' + 'ipt>');
+		   }
+		//]]>
+		</script>	
+		<noscript>
+			<a href="http://ad.doubleclick.net/jump/ng.photography/pod_travel;sz=728x90;tile=180;ord=296250156">
+			<img src="http://ad.doubleclick.net/ad/ng.photography/pod_travel;sz=728x90;tile=180;ord=296250156" border="0" height="90" width="728" /></a>
+		</noscript>
+
+</div>
+
+							
+						
+					
+				
+			</div><!-- .leaderboard .advertisement -->
+			<div class="secondary_ad hidden">
+				<h3 class="hidden">Advertisement</h3>
+				
+					
+						
+							
+
+								<!-- advertising -->
+
+<div id="advertisingModuleZonepod_travel257x90">
+
+
+	
+		<script type="text/javascript" charset="utf-8">
+		//<![CDATA[
+		// uri: /photo-of-the-day/
+		// site_name: photography
+		// zone: pod_travel
+		// width: 257
+		// height: 90
+		// keywords: 
+		// bust: 924171771
+		// tile: 159
+		// refreshable: False
+		// regex: ^/[.]*
+		// page_taxonomy: photography.nationalgeographic.com::photography::photo-of-the-day::Travel
+		// ad_taxonomy: photography.nationalgeographic.com::photography::photo-of-the-day::Travel
+		// taxonomy_match: True
+			var only;
+			if (typeof only == 'undefined'){only=1;dc=";dcopt=ist";} 
+			else {only+=1;dc="";}
+
+			var bust;
+			if (typeof bust == 'undefined') {
+				bust = Math.floor(1000000*Math.random());
+			}
+		   if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || navigator.userAgent.indexOf("WebTV")>= 0) {
+		   document.write('<a href="http://ad.doubleclick.net/jump/ng.photography/pod_travel'+dc+';sz=257x90;tile='+only+';ord='+bust+'">');
+		   document.write('<img src="http://ad.doubleclick.net/ad/ng.photography/pod_travel'+dc+';sz=257x90;tile='+only+';ord='+bust+'" border="0" height="90" width="257" /></a>');
+		   } else {
+		   document.write('<scr' + 'ipt language="JavaScript1.1" src="http://ad.doubleclick.net/adj/ng.photography/pod_travel'+dc+';sz=257x90;tile='+only+';ord='+bust+'">');
+		   document.write('<a href="http://ad.doubleclick.net/jump/ng.photography/pod_travel'+dc+';sz=257x90;tile='+only+';ord='+bust+'">');
+		   document.write('<img src="http://ad.doubleclick.net/ad/ng.photography/pod_travel'+dc+';sz=257x90;tile='+only+';ord='+bust+'" border="0" height="90" width="257" /></a>');
+		   document.write('</scr' + 'ipt>');
+		   }
+		//]]>
+		</script>	
+		<noscript>
+			<a href="http://ad.doubleclick.net/jump/ng.photography/pod_travel;sz=257x90;tile=159;ord=924171771">
+			<img src="http://ad.doubleclick.net/ad/ng.photography/pod_travel;sz=257x90;tile=159;ord=924171771" border="0" height="90" width="257" /></a>
+		</noscript>
+
+</div>
+
+							
+						
+					
+				
+			</div><!-- .secondary_ad -->
+		</div><!-- #headerboard -->
+		
+		<div class="vcard" id="header_logo">
+			<h2 class="org"><a href="http://www.nationalgeographic.com" class="url fn hiddenText" id="intl_link_headerboard_logo">National Geographic Society</a></h2>
+	        <p class="adr hidden">
+				<span class="street-address">P.O. Box 98199</span><br/>
+				<span class="locality">Washington</span>, <abbr title="District of Columbia" class="region">DC</abbr> <span class="postal_code">20090-8199</span><br/>
+				<span class="tel hidden">800-647-5463</span>
+			</p>
+			<p class="geo hidden">Lat/Lon:
+				<span class="latitude">38.90531943278526</span>,
+				<span class="longitude">-77.0376992225647</span>
+			</p>
+			<p id="mission_statement">Inspiring people to care about the planet since 1888</p>
+			<p id="mission_learn_link"><a href="/field/">Learn More &raquo;</a></p>
+		</div><!-- #header_logo -->
+
+		<div id="account" class="clearfix">
+			
+				<div id="ssoauth"><p class="action"><a href="http://www.nationalgeographic.com/magazines/" id="intl_link_subscriptions">Subscriptions</a></p></div>
+			
+		</div>
+
+		<form action="/search/" method="get" id="header_search">
+			<h2 class="hidden">Search National Geographic</h2>
+			<!-- google search parameters -->
+			<div class="hidden">
+				<input type="hidden" name="site" value="default_collection" />
+				<input type="hidden" name="client" value="default_frontend" />
+				<input type="hidden" name="proxystylesheet" value="default_frontend" />
+				<input type="hidden" name="output" value="xml_no_dtd" />
+				<input type="hidden" name="oe" value="utf-8" />
+			</div>
+			<div class="field">
+				<label for="header_search_input" class="hidden">Search <span class="hidden">nationalgeographic.com</span></label>
+				<input type="text" name="search" id="header_search_input" />
+				<button type="submit" name="btnG" id="header_search_submit" class="hiddenText">Submit</button>
+			</div>
+		</form><!-- #header_search -->
+	</div><!-- #navigation_mainA -->
+
+	<div id="navigation_mainB_wrap" class="clearfix">
+		<h2 class="hidden">Main Navigation</h2>
+		<div id="navigation_mainB" class="clearfix">
+			<ul id="navigation_tophat_primary" class="nav sf-menu sf-navbar">
+				<li class="nav1"><h3><a class="hover" href="http://www.nationalgeographic.com" id="intl_link_tophat_primary_home">Home</a></h3>
+					<ul class="nav">
+						<li class="nav1"><a href="/news/">Daily News</a></li>
+						<li class="nav2"><a href="http://ngm.nationalgeographic.com">The Magazine</a></li>
+						<li class="nav3"><a href="http://maps.nationalgeographic.com">Maps</a></li>
+						<li class="nav4"><a href="/science/">Science</a></li>
+						<li class="nav5"><a href="/education/">Education</a></li>
+						<li class="nav6"><a href="http://games.nationalgeographic.com">Games</a></li>
+						<li class="nav7"><a href="http://worldmusic.nationalgeographic.com">Music</a></li>
+						<li class="nav8"><a href="http://blogs.nationalgeographic.com">Blogs</a></li>
+						<li class="nav9"><a href="/movies/">Movies</a></li>
+						<li class="nav10"><a href="/field/">In the Field</a></li>
+						<li class="nav11"><a href="/mobile/">Mobile</a></li>
+						<li class="nav12"><a href="http://newsletters.nationalgeographic.com/p/National%2520Geographic%2520Society/NG_Registration_Page">Newsletters</a></li>
+					</ul>
+				</li>
+				<li class="nav2"><h3><a href="/photography/?source=NavPhoHome">Photography</a></h3>
+					<ul class="nav">
+						<li class="nav1"><a href="/photography/?source=NavPhoHome">Photography Home</a></li>
+						<li class="nav2"><a href="/photography/photo-of-the-day/?source=NavPhoPOD">Photo of the Day</a></li>
+						<li class="nav3"><a href="/photography/photogalleries/?source=NavPhoGall">Galleries</a></li>
+						
+						<li class="nav5"><a href="/photography/wallpapers/?source=NavPhoWall">Wallpapers</a></li>
+						<li class="nav6"><a href="/photography/photo-tips/?source=NavPhoTip">Photo Tips</a></li>
+						<li class="nav7"><a href="/photography/photographers/?source=NavPhoGraph">Photographers</a></li>
+						<li class="nav8"><a href="http://gallery.pictopia.com/natgeo/?source=NavPhoPrint">Buy Prints</a></li>
+						<li class="nav9"><a href="http://newsletters.nationalgeographic.com/p/National%2520Geographic%2520Society/NG_Registration_Page?source=NavPhoNewsletter">Newsletters</a></li>
+					</ul>
+				</li>
+
+				<li class="nav3"><h3><a href="/animals/?source=NavAniHome">Animals</a></h3>
+					<ul class="nav">
+						<li class="nav1"><a href="/animals/?source=NavAniHome">Animals Home</a></li>
+						<li class="nav2"><a href="/animals/facts/?source=NavAniFact">Facts</a></li>
+						<li class="nav3"><a href="/animals/photos/?source=NavAniPhoto">Photos</a></li>
+						<li class="nav4"><a href="/animals/conservation/">Animal Conservation</a></li>
+						<li class="nav5"><a href="http://animals.nationalgeographic.com/wild/shows/?source=NavAniShow">Wild TV Shows</a></li>
+						<li class="nav6"><a href="http://animals.nationalgeographic.com/wild/tv-schedule/?source=NavAniSched">Wild TV Schedule</a></li>
+						<li class="nav7"><a href="http://animals.nationalgeographic.com/wild/community/blogs/inside-wild/?source=NavAniBlog">Wild Blog</a></li>
+			        </ul>
+				</li>
+
+				<li class="nav4"><h3><a href="/environment/?source=NavEnvHome">Environment</a></h3>
+					<ul class="nav">
+						<li class="nav1"><a href="/environment/?source=NavEnvHome">Environment Home</a></li>
+						<li class="nav2"><a href="/environment/energy/?source=NavEnvEnergy">Energy</a></li>
+						<li class="nav3"><a href="/environment/freshwater/?source=NavEnvFresh">Freshwater</a></li>
+						<li class="nav4"><a href="/environment/global-warming/?source=NavEnvGlobal">Global Warming</a></li>
+						<li class="nav5"><a href="/environment/habitats/?source=NavEnvHab">Habitats</a></li>
+						<li class="nav6"><a href="/environment/natural-disasters/?source=NavEnvND">Natural Disasters</a></li>
+						<li class="nav7"><a href="/ocean/?source=NavEnvOcean">The Ocean</a></li>
+						<li class="nav8"><a href="http://www.thegreenguide.com/?source=NavEnvGG">The Green Guide</a></li>
+						<li class="nav9"><a href="http://newsletters.nationalgeographic.com/p/National%2520Geographic%2520Society/NG_Registration_Page?source=NavEnvNewsletter">Newsletters</a></li>
+			        </ul>
+				</li>
+
+				<li class="nav5"><h3><a href="/travel/?source=NavTravHome">Travel</a></h3>
+					<ul class="nav">
+						<li class="nav1"><a href="/travel/?source=NavTravHome">Travel Home</a></li>
+						<li class="nav2"><a href="http://travel.nationalgeographic.com/travel/top-10/?source=NavTravTop">Top 10</a></li>
+						<li class="nav3"><a href="/travel/trip-ideas/?source=NavTravTrip">Trip Ideas</a></li>
+						<li class="nav4"><a href="/travel/countries/?source=NavTravCount">Countries</a></li>
+						<li class="nav5"><a href="/travel/city-guides/?source=NavTravCity">Cities</a></li>
+						<li class="nav6"><a href="/travel/national-parks/?source=NavTravPark">Parks</a></li>
+						<li class="nav7"><a href="http://traveler.nationalgeographic.com/?source=NavTravMag">Traveler Magazine</a></li>
+						<li class="nav8"><a href="/travel/travel-photos/?source=NavTravPhoto">Photos</a></li>
+						<li class="nav9"><a href="/travel/travel-quizzes/?source=NavTravQuiz">Quizzes</a></li>
+						<li class="nav10"><a href="http://www.nationalgeographicexpeditions.com/home/?source=NavTravWith">Travel With Us</a></li>
+						<li class="nav11"><a href="http://newsletters.nationalgeographic.com/p/National%2520Geographic%2520Society/NG_Registration_Page?source=NavTravNewsletter">Newsletters</a></li>
+					</ul>
+				</li>
+
+				<li class="nav6"><h3><a href="http://adventure.nationalgeographic.com/?source=NavAdvHome">Adventure</a></h3>
+					<ul class="nav">
+						<li class="nav1"><a href="http://adventure.nationalgeographic.com/?source=NavAdvHome">Adventure Home</a></li>
+						<li class="nav2"><a href="http://adventure.nationalgeographic.com/gear?source=NavAdvGear">Gear Guide</a></li>
+						<li class="nav3"><a href="http://adventure.nationalgeographic.com/adventure/outfitterhome/?source=NavAdvOutfit">Outfitters Guide</a></li>
+						<li class="nav5"><a href="http://travel.nationalgeographic.com/travel/national-parks/?source=NavTravPark">Parks</a></li>
+						<li class="nav6"><a href="http://adventure.nationalgeographic.com/photography?source=NavAdvPhoto">Photography</a></li>
+						<li class="nav7"><a href="http://adventure.nationalgeographic.com/video/player?source=NavAdvVid">Video</a></li>
+						<li class="nav8"><a href="http://ngadventure.typepad.com/blog/?source=NavAdvBlog">Adventure News</a></li>
+						<li class="nav9"><a href="http://www.nationalgeographicexpeditions.com/home/?source=NavAdvTrip">Travel With Us</a></li>
+						<li class="nav10"><a href="http://www.topo.com/?source=NavAdvTopo">Topo Maps</a></li>
+						<li class="nav11"><a href="http://newsletters.nationalgeographic.com/p/National%2520Geographic%2520Society/NG_Registration_Page?source=NavAdvNewsletter">Newsletters</a></li>
+					</ul>
+				</li>
+
+				<li class="nav7"><h3><a href="http://channel.nationalgeographic.com/?source=NavNGCHome" id="intl_link_tophat_primary_natgeotv">NatGeoTV</a></h3>
+					<ul class="nav" id="intl_link_sub_natgeotv">
+						<li class="nav1"><a href="http://channel.nationalgeographic.com/?source=NavNGCHome">NGC Home</a></li>
+						<li class="nav2"><a href="http://channel.nationalgeographic.com/channel/tv-schedule/?source=NavNGCSched">TV Schedule</a></li>
+						<li class="nav3"><a href="http://channel.nationalgeographic.com/channel/content/games/?source=NavNGCGame">Games</a></li>
+						<li class="nav4"><a href="http://mobilestore.nationalgeographic.com/Featured/Nat-Geo-Channel/?source=NavNGCMob">Mobile</a></li>
+						<li class="nav5"><a href="http://ngcblog.nationalgeographic.com/ngcblog/?source=NavNGCComm">Community</a></li>
+						<li class="nav6"><a href="http://channel.nationalgeographic.com/channel/videos/?source=NavNGCVid" class="popup">NGC Videos</a></li>
+					</ul>
+				</li>
+
+				<li class="nav8"><h3><a href="http://kids.nationalgeographic.com/?source=NavKidsHome">Kids</a></h3>
+					<ul class="nav">
+						<li class="nav1"><a href="http://kids.nationalgeographic.com/?source=NavKidsHome">Kids Home</a></li>
+						<li class="nav2"><a href="http://ad.doubleclick.net/clk;218355739;8304489;w?http://kids.nationalgeographic.com/Animals/?source=NavKidsAnimal">Animals</a></li>
+						<li class="nav3"><a href="http://ad.doubleclick.net/clk;218355739;8304489;w?http://kids.nationalgeographic.com/Games/?source=NavKidsGame">Games</a></li>
+						<li class="nav4"><a href="http://ad.doubleclick.net/clk;218355739;8304489;w?http://kids.nationalgeographic.com/Videos/?source=NavKidsVid">Videos</a></li>
+						<li class="nav5"><a href="http://ad.doubleclick.net/clk;218355739;8304489;w?http://kids.nationalgeographic.com/Stories/?source=NavKidsStory">Stories</a></li>
+						<li class="nav6"><a href="http://ad.doubleclick.net/clk;218355739;8304489;w?http://kids.nationalgeographic.com/Activities/?source=NavKidsAct">Activities</a></li>
+						<li class="nav7"><a href="http://ad.doubleclick.net/clk;218355739;8304489;w?http://kids.nationalgeographic.com/Places/?source=NavKidsPpl">People &amp; Places</a></li>
+						<li class="nav8"><a href="http://ad.doubleclick.net/clk;218355739;8304489;w?http://kids.nationalgeographic.com/Photos/?source=NavKidsPhoto">Photos</a></li>
+						<li class="nav9"><a href="http://ad.doubleclick.net/clk;218355739;8304489;w?http://kidsblogs.nationalgeographic.com/blogs/?source=NavKidsBlog">Blogs</a></li>
+						<li class="nav10"><a href="http://newsletters.nationalgeographic.com/p/National%2520Geographic%2520Society/NG_Registration_Page?source=NavKidsNewsletter">Newsletters</a></li>
+					</ul>
+				</li>
+
+				
+
+				<li class="nav9"><h3><a href="http://video.nationalgeographic.com">Video</a></h3></li>
+
+				<li class="nav10"><h3><a href="http://shop.nationalgeographic.com/ngs/index.jsp?code=NG94000&amp;source=NavShopHome" id="intl_link_tophat_primary_shop" style="color: #F00;">Shop</a></h3>
+					<ul class="nav" id="intl_link_sub_shop">
+						<li class="nav1"><a href="http://shop.nationalgeographic.com/ngs/index.jsp?code=NG94001&amp;source=NavShopHome">Store Home</a></li>
+						<li class="nav2"><a href="http://shop.nationalgeographic.com/ngs/browse/category_giftfinder.jsp?categoryId=A245&amp;addFacet=9004:A245&amp;code=NG94002&amp;source=NavShopGift">Gift Finder</a></li>
+						<li class="nav3"><a href="http://shop.nationalgeographic.com/ngs/browse/category.jsp?categoryId=A236&amp;addFacet=9004:A236&amp;code=NG94003&amp;source=NavShopChan">Channel Shop</a></li>
+						<li class="nav4"><a href="http://shop.nationalgeographic.com/ngs/browse/category.jsp?categoryId=A091&amp;addFacet=9004:A091&amp;code=NG94004&amp;source=NavShopKids">Kids Shop</a></li>
+						<li class="nav5"><a href="http://shop.nationalgeographic.com/ngs/category/shop-by-catalog?code=NG94005&amp;source=NavShopCat">Shop by Catalog</a></li>
+						<li class="nav6"><a href="http://shop.nationalgeographic.com/ngs/browse/category_theme.jsp?categoryId=A179&amp;addFacet=9004:A179&amp;code=NG94006&amp;source=NavShopTheme">Shop by Theme</a></li>
+						<li class="nav7"><a href="http://shop.nationalgeographic.com/ngs/company/service.jsp?code=NG94007&amp;source=NavShopServ">Customer Service</a></li>
+						<li class="nav8"><a href="http://shop.nationalgeographic.com/ngs/browse/category_sale.jsp?categoryId=A223&amp;addFacet=9004:A223&amp;code=NG94008&amp;source=NavShopSale">Sale Items</a></li>
+						<li class="nav9"><a href="http://shop.nationalgeographic.com/ngs/browse/emailRegistration.jsp?code=NG94056">Email Signup</a></li>
+					</ul>
+				</li>
+
+			</ul><!-- #navigation_tophat_primary -->
+		</div><!-- #navigation_mainB -->
+	</div><!-- #navigation_mainB_wrap -->
+	<hr />
+</div><!-- #navigation_tophat_container -->
+        <script type="text/javascript">highlightNavItem();</script>
+    
+
+    
+        <div id="body_wrap">
+            <div id="container">
+    
+    
+
+        
+            
+                <!-- ### PAGE TITLE WITH SPONSORSHIP ### -->
+                <div id="page_head">
+            
+                    <div class="advertisement">
+                        <!-- advertising -->
+
+<div id="advertisingModuleZonepod_travel210x50">
+
+
+	
+		<script type="text/javascript" charset="utf-8">
+		//<![CDATA[
+		// uri: /photo-of-the-day/
+		// site_name: photography
+		// zone: pod_travel
+		// width: 210
+		// height: 50
+		// keywords: 
+		// bust: 263040122
+		// tile: 140
+		// refreshable: False
+		// regex: ^/[.]*
+		// page_taxonomy: photography.nationalgeographic.com::photography::photo-of-the-day::Travel
+		// ad_taxonomy: photography.nationalgeographic.com::photography::photo-of-the-day::Travel
+		// taxonomy_match: True
+			var only;
+			if (typeof only == 'undefined'){only=1;dc=";dcopt=ist";} 
+			else {only+=1;dc="";}
+
+			var bust;
+			if (typeof bust == 'undefined') {
+				bust = Math.floor(1000000*Math.random());
+			}
+		   if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || navigator.userAgent.indexOf("WebTV")>= 0) {
+		   document.write('<a href="http://ad.doubleclick.net/jump/ng.photography/pod_travel'+dc+';sz=210x50;tile='+only+';ord='+bust+'">');
+		   document.write('<img src="http://ad.doubleclick.net/ad/ng.photography/pod_travel'+dc+';sz=210x50;tile='+only+';ord='+bust+'" border="0" height="50" width="210" /></a>');
+		   } else {
+		   document.write('<scr' + 'ipt language="JavaScript1.1" src="http://ad.doubleclick.net/adj/ng.photography/pod_travel'+dc+';sz=210x50;tile='+only+';ord='+bust+'">');
+		   document.write('<a href="http://ad.doubleclick.net/jump/ng.photography/pod_travel'+dc+';sz=210x50;tile='+only+';ord='+bust+'">');
+		   document.write('<img src="http://ad.doubleclick.net/ad/ng.photography/pod_travel'+dc+';sz=210x50;tile='+only+';ord='+bust+'" border="0" height="50" width="210" /></a>');
+		   document.write('</scr' + 'ipt>');
+		   }
+		//]]>
+		</script>	
+		<noscript>
+			<a href="http://ad.doubleclick.net/jump/ng.photography/pod_travel;sz=210x50;tile=140;ord=263040122">
+			<img src="http://ad.doubleclick.net/ad/ng.photography/pod_travel;sz=210x50;tile=140;ord=263040122" border="0" height="50" width="210" /></a>
+		</noscript>
+
+</div>
+
+                    </div>
+            
+
+            
+
+    
+
+            
+
+            
+	<h2 class="category_link"><a href="/photography/photo-of-the-day">Photo of the Day</a></h2>
+    <h1>Storm Clouds, Utah</h1>
+
+                </div>
+        
+
+                <div id="content">
+        
+                    
+
+    
+
+        
+
+        
+	
+
+    
+
+		
+			
+
+
+
+
+
+
+
+	<div id="content_page_specific">
+		
+		
+
+		<h2 class="hidden">Main Content</h2>
+
+		
+		
+		
+		
+
+			
+	        
+
+			
+
+
+
+  
+	
+	
+
+
+
+
+
+
+
+	
+
+
+
+
+<div id="content_top">
+	
+	<div id="pod_bar" class="clearfix">
+		<p class="publication_time">December 12, 2010</p>
+
+		<p><a href="#caption">View Caption</a></p>
+		
+		<div id="pod_nav">
+			
+			
+
+			
+			
+			    <p class="prev first"><a href="/photography/photo-of-the-day/colorful-umbrellas-laos/">&laquo; Previous</a></p>
+			
+
+								
+			
+		</div>
+
+	</div>
+
+	<div class="primary_photo">
+		
+		<a href="/photography/photo-of-the-day/colorful-umbrellas-laos/" title="Go to the previous Photo of the Day">
+
+
+	<img src="http://images.nationalgeographic.com/wpf/media-live/photos/000/294/cache/storm-clouds-utah-cornfield_29426_990x742.jpg"  width="989" height="742" alt="Photo: Storm clouds over a cornfield" />	
+
+
+		</a>
+		   
+	</div><!-- .primary_photo-->
+</div>
+
+
+           		
+
+
+<!-- ### LEFT COLUMN ### -->
+<div id="content_mainA">
+		
+
+	<div class="subsection">
+		<div class="article_body">
+
+			<div class="article_text">
+					<div class="nav">
+					
+					
+					
+					
+					    <p class="prev first"><a href="/photography/photo-of-the-day/colorful-umbrellas-laos/">&laquo; Previous</a></p>
+					
+					
+					
+				
+				</div>
+				
+			    <div class="download_link"><a href="http://images.nationalgeographic.com/wpf/media-live/photos/000/294/custom/29426_1600x1200-wallpaper-cb1291140573.jpg">Download Wallpaper (1600 x 1200 pixels)</a></div>
+					
+				
+				
+					<div id="caption">				
+						<p class="publication_time">December 12, 2010</p>
+				
+						<h2>Storm Clouds, Utah</h2>
+
+						
+							<p class="credit">Photograph by <a href="http://ngm.nationalgeographic.com/myshot/gallery/99991#/gallery/947022/">Steven Besserman</a>, My Shot</p>
+												
+
+						<p><b>This Month in Photo of the Day: <a href="http://travel.nationalgeographic.com/travel/travel-photos/?source=pod">Travel</a> and <a href="http://adventure.nationalgeographic.com/photography?source=pod">Adventure</a> Photos</b></p>
+
+<p> Storm clouds move in over a Utah cornfield at sunset. </p>
+
+<p><em>(This photograph was submitted to <a href="http://ngm.nationalgeographic.com/myshot/">My Shot</a>.)</em></p>
+
+<br /><br />
+
+<p><a href="http://travel.nationalgeographic.com/travel/road-trips/us-photo-gallery/?source=pod">See photos from U.S. road trips &raquo;</a></p>
+						
+						
+						
+					</div>
+				
+
+			</div><!-- .article_text-->
+
+			
+
+		</div><!-- .article_body-->	
+
+		
+
+<div class="aside">
+	
+	<div id="share_buttons">
+		<h3 class="title">Share</h3>
+		<div class="pluck hidden">
+			<p><a class="comments" href="#comments">Comments</a></p>
+			
+		</div>
+		<div class="addthis_toolbox">
+	        <p><a class="addthis_button_facebook">Facebook</a></p>
+			<p><a class="addthis_button_twitter">Twitter</a></p>
+			<p><a class="addthis_button_googlereader">Google Buzz</a></p>
+			<p><a class="addthis_button_digg">Digg</a></p>
+			<p><a class="addthis_button_stumbleupon">StumbleUpon</a></p>
+	       	<p><a class="addthis_button_email">Send to a Friend</a></p>
+	        <p><a class="addthis_button_expanded">More &raquo;</a></p>
+		</div>
+	</div><!-- #share -->
+	
+
+	
+	
+
+    
+		
+
+</div><!-- .aside-->
+
+
+	</div><!-- .subsection -->
+		
+		
+
+    
+
+		
+			
+
+
+
+
+
+<div class="subsection" >
+    
+	
+    
+		
+	
+	       
+			
+			<div  class="primary full_width">
+				
+	            
+			
+				
+		 		
+
+
+
+
+
+ 
+
+
+
+<div class="promo_collection thumbnail_grid">
+	
+	
+	
+		
+
+
+
+
+
+
+
+	
+	
+		
+			<h3 class="title">Related Features</h3>
+		
+	
+		
+		 
+		
+		
+		<ul class="wide ">
+
+			
+			
+			 
+					
+						
+							
+
+
+
+
+
+
+	
+	<li class="first">
+		
+		    <a href="http://channel.nationalgeographic.com/channel/great-migrations" title="&lt;i&gt;Great Migrations&lt;/i&gt;">
+				
+
+
+	<img src="http://images.nationalgeographic.com/wpf/media-live/photos/000/285/cache/101111-dl1-great-migrations-mali-elephant_28528_160x120.jpg"  width="160" height="120" alt="101111-DL1-great-migrations-mali-elephant.jpg" />	
+
+
+			</a>
+			
+	
+    <p class="headline"><a href="http://channel.nationalgeographic.com/channel/great-migrations" title="&lt;i&gt;Great Migrations&lt;/i&gt;" ><i>Great Migrations</i></a></p>
+</li>
+
+
+						
+					
+				
+					
+						
+							
+								
+
+
+
+
+
+
+	
+	<li class=" ">
+		
+		    <a href="http://ngm.nationalgeographic.com/2010/11/great-migrations/sartore-photography" title="Photos: Great Migrations">
+				
+
+
+	<img src="http://images.nationalgeographic.com/wpf/media-live/photos/000/274/overrides/great-plains-bison_27489_160x120.jpg"  width="160" height="120" alt="Photo: Bison crossing Triple U ranch in South Dakota" />	
+
+
+			</a>
+			
+	
+    <p class="headline"><a href="http://ngm.nationalgeographic.com/2010/11/great-migrations/sartore-photography" title="Photos: Great Migrations" >Photos: Great Migrations</a></p>
+</li>
+
+
+							
+						
+					
+				
+					
+						
+							
+								
+
+
+
+
+
+
+	
+	<li class=" ">
+		
+		    <a href="http://channel.nationalgeographic.com/channel/great-migrations" title="Go Behind the Scenes">
+				
+
+
+	<img src="http://images.nationalgeographic.com/wpf/media-live/photos/000/246/cache/great-migrations-zebra_24677_160x120.jpg"  width="160" height="120" alt="great-migrations-zebra.jpg" />	
+
+
+			</a>
+			
+	
+    <p class="headline"><a href="http://channel.nationalgeographic.com/channel/great-migrations" title="Go Behind the Scenes" >Go Behind the Scenes</a></p>
+</li>
+
+
+							
+						
+					
+				
+					
+						
+							
+								
+
+
+
+
+
+
+	
+	<li class=" ">
+		
+		    <a href="http://nationalgeographic.oberon-media.com/game.htm?code=119499197" title="Great Migrations Game">
+				
+
+
+	<img src="http://images.nationalgeographic.com/wpf/media-live/photos/000/277/overrides/great-migrations-game-dl_27748_160x120.jpg"  width="160" height="120" alt="Photo:  A photo montage of migrating animals--zebras, crabs, butterflies" />	
+
+
+			</a>
+			
+	
+    <p class="headline"><a href="http://nationalgeographic.oberon-media.com/game.htm?code=119499197" title="Great Migrations Game" >Great Migrations Game</a></p>
+</li>
+
+
+							
+						
+					
+				
+					
+						
+							
+								
+
+
+
+
+
+
+	
+	<li class=" ">
+		
+		    <a href="/travel/animal-migrations-photos-traveler/" title="Join the Crowd">
+				
+
+
+	<img src="http://images.nationalgeographic.com/wpf/media-live/photos/000/267/overrides/01-migrations-birds_26770_160x120.jpg"  width="160" height="120" alt="Photo: Falkland Islands" />	
+
+
+			</a>
+			
+	
+    <p class="headline"><a href="/travel/animal-migrations-photos-traveler/" title="Join the Crowd" >Join the Crowd</a></p>
+</li>
+
+
+							
+						
+					
+				
+					
+						
+							
+								
+
+
+
+
+
+
+	
+	<li class=" ">
+		
+		    <a href="http://ngm.nationalgeographic.com/myshot/jigsaw-puzzles#/as-seen-on-earth/" title="Photo Jigsaw Puzzles">
+				
+
+
+	<img src="http://images.nationalgeographic.com/wpf/media-live/photos/000/232/cache/jigsaw-earth_23228_160x120.jpg"  width="160" height="120" alt="jigsaw-earth--c.jpg" />	
+
+
+			</a>
+			
+	
+    <p class="headline"><a href="http://ngm.nationalgeographic.com/myshot/jigsaw-puzzles#/as-seen-on-earth/" title="Photo Jigsaw Puzzles" >Photo Jigsaw Puzzles</a></p>
+</li>
+
+
+							
+						
+					
+				
+					
+						
+							
+								
+
+
+
+
+
+
+	
+	<li class=" ">
+		
+		    <a href="/photography/photos/best-pod-october-2010/" title="Best of October">
+				
+
+
+	<img src="http://images.nationalgeographic.com/wpf/media-live/photos/000/267/overrides/tiger-grass-kaziranga_26753_160x120.jpg"  width="160" height="120" alt="Photo: Tiger in tall grass" />	
+
+
+			</a>
+			
+	
+    <p class="headline"><a href="/photography/photos/best-pod-october-2010/" title="Best of October" >Best of October</a></p>
+</li>
+
+
+							
+						
+					
+				
+					
+						
+							
+								
+
+
+
+
+
+
+	
+	<li class=" ">
+		
+		    <a href="/photography/photos/best-pod-september-2010/" title="Best of September">
+				
+
+
+	<img src="http://images.nationalgeographic.com/wpf/media-live/photos/000/253/overrides/tarpon-grand-cayman_25312_160x120.jpg"  width="160" height="120" alt="Photo: Tarpon and silverside fish" />	
+
+
+			</a>
+			
+	
+    <p class="headline"><a href="/photography/photos/best-pod-september-2010/" title="Best of September" >Best of September</a></p>
+</li>
+
+
+							
+						
+					
+				
+					
+						
+							
+								
+
+
+
+
+
+
+	
+	<li class=" ">
+		
+		    <a href="/photography/photos/best-pod-august-2010/" title="Best of August">
+				
+
+
+	<img src="http://images.nationalgeographic.com/wpf/media-live/photos/000/239/overrides/st-maarten-jet-fly-over_23943_160x120.jpg"  width="160" height="120" alt="Photo: Jet flying low over a beach" />	
+
+
+			</a>
+			
+	
+    <p class="headline"><a href="/photography/photos/best-pod-august-2010/" title="Best of August" >Best of August</a></p>
+</li>
+
+
+							
+						
+					
+				
+					
+						
+							
+								
+
+
+
+
+
+
+	
+	<li class=" ">
+		
+		    <a href="/photography/photos/best-pod-july-2010/" title="Best of July">
+				
+
+
+	<img src="http://images.nationalgeographic.com/wpf/media-live/photos/000/226/overrides/king-penguins-south-georgia-island_22661_160x120.jpg"  width="160" height="120" alt="Photo: King penguins" />	
+
+
+			</a>
+			
+	
+    <p class="headline"><a href="/photography/photos/best-pod-july-2010/" title="Best of July" >Best of July</a></p>
+</li>
+
+
+							
+						
+					
+				
+					
+						
+							
+								
+
+
+
+
+
+
+	
+	<li class=" ">
+		
+		    <a href="/photography/photos/best-pod-june-2010/" title="Best of June">
+				
+
+
+	<img src="http://images.nationalgeographic.com/wpf/media-live/photos/000/122/cache/western-mongolian-man_12253_160x120.jpg"  width="160" height="120" alt="Photo: Close-up of a Mongolian man" />	
+
+
+			</a>
+			
+	
+    <p class="headline"><a href="/photography/photos/best-pod-june-2010/" title="Best of June" >Best of June</a></p>
+</li>
+
+
+							
+						
+					
+				
+					
+						
+							
+								
+
+
+
+
+
+
+	
+	<li class="last">
+		
+		    <a href="/photography/photos/best-pod-may-2010/" title="Best of May">
+				
+
+
+	<img src="http://images.nationalgeographic.com/wpf/media-live/photos/000/200/overrides/serra-da-leba-angola_20004_160x120.jpg"  width="160" height="120" alt="Photo: Light trails from moving vehicles along a mountain" />	
+
+
+			</a>
+			
+	
+    <p class="headline"><a href="/photography/photos/best-pod-may-2010/" title="Best of May" >Best of May</a></p>
+</li>
+
+
+							
+						
+					
+					
+			
+			
+
+		
+		</ul>
+
+
+
+
+
+	
+	
+	
+
+
+	
+
+
+	
+</div><!-- .promo_collection -->
+
+
+
+
+				
+		             		
+			</div>	
+			
+		
+	
+	
+    
+    
+
+</div>
+
+
+		
+		
+
+    
+
+		
+					
+		
+
+    
+
+		
+					
+		
+
+    
+
+		
+					
+		
+
+    
+
+		
+					
+		
+
+    
+
+
+	
+</div><!-- #content_mainA -->
+
+
+
+
+
+			
+		
+
+		<hr class="hidden" />
+
+		<!-- ### RIGHT COLUMN ### -->
+          	<div id="content_mainB" class="aside">
+			
+				
+
+    
+
+		
+					
+		
+
+    
+
+				<div class="advertisement box">
+					<h3>Advertisement</h3>
+					<!-- advertising -->
+
+<div id="advertisingModuleZonepod_travel300x250">
+
+
+	
+		<script type="text/javascript" charset="utf-8">
+		//<![CDATA[
+		// uri: /photo-of-the-day/
+		// site_name: photography
+		// zone: pod_travel
+		// width: 300
+		// height: 250
+		// keywords: 
+		// bust: 227538631
+		// tile: 144
+		// refreshable: False
+		// regex: ^/[.]*
+		// page_taxonomy: photography.nationalgeographic.com::photography::photo-of-the-day::Travel
+		// ad_taxonomy: photography.nationalgeographic.com::photography::photo-of-the-day::Travel
+		// taxonomy_match: True
+			var only;
+			if (typeof only == 'undefined'){only=1;dc=";dcopt=ist";} 
+			else {only+=1;dc="";}
+
+			var bust;
+			if (typeof bust == 'undefined') {
+				bust = Math.floor(1000000*Math.random());
+			}
+		   if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || navigator.userAgent.indexOf("WebTV")>= 0) {
+		   document.write('<a href="http://ad.doubleclick.net/jump/ng.photography/pod_travel'+dc+';sz=300x250;tile='+only+';ord='+bust+'">');
+		   document.write('<img src="http://ad.doubleclick.net/ad/ng.photography/pod_travel'+dc+';sz=300x250;tile='+only+';ord='+bust+'" border="0" height="250" width="300" /></a>');
+		   } else {
+		   document.write('<scr' + 'ipt language="JavaScript1.1" src="http://ad.doubleclick.net/adj/ng.photography/pod_travel'+dc+';sz=300x250;tile='+only+';ord='+bust+'">');
+		   document.write('<a href="http://ad.doubleclick.net/jump/ng.photography/pod_travel'+dc+';sz=300x250;tile='+only+';ord='+bust+'">');
+		   document.write('<img src="http://ad.doubleclick.net/ad/ng.photography/pod_travel'+dc+';sz=300x250;tile='+only+';ord='+bust+'" border="0" height="250" width="300" /></a>');
+		   document.write('</scr' + 'ipt>');
+		   }
+		//]]>
+		</script>	
+		<noscript>
+			<a href="http://ad.doubleclick.net/jump/ng.photography/pod_travel;sz=300x250;tile=144;ord=227538631">
+			<img src="http://ad.doubleclick.net/ad/ng.photography/pod_travel;sz=300x250;tile=144;ord=227538631" border="0" height="250" width="300" /></a>
+		</noscript>
+
+</div>
+
+				</div>
+				
+
+    
+
+		
+			
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+    
+
+    
+		
+		
+				
+		
+
+
+			
+            
+
+			
+	 		
+
+
+
+	
+		
+			<div class="promo_collection columns">
+		
+		
+		
+			
+				
+					
+
+
+
+
+
+
+
+	
+	
+		
+			<h3 class="title">Browse Photo of the Day Images</h3>
+		
+	
+		
+		 
+		
+		
+		<ul class="bullets ">
+
+			
+			
+			 
+					
+						
+							
+
+
+
+
+	
+
+
+	
+		
+
+
+
+
+
+
+<li class="first">
+
+    <a href="/photography/photo-of-the-day/animals/" title="Animals" >Animals</a>
+
+	
+
+</li>
+
+	
+	
+	
+
+
+
+
+						
+					
+				
+					
+						
+							
+								
+
+
+
+
+	
+
+
+	
+		
+
+
+
+
+
+
+<li class=" ">
+
+    <a href="/photography/photo-of-the-day/adventure-exploration/" title="Adventure and Exploration" >Adventure and Exploration</a>
+
+	
+
+</li>
+
+	
+	
+	
+
+
+
+
+							
+						
+					
+				
+					
+						
+							
+								
+
+
+
+
+	
+
+
+	
+		
+
+
+
+
+
+
+<li class=" ">
+
+    <a href="/photography/photo-of-the-day/black-white/" title="Black and White" >Black and White</a>
+
+	
+
+</li>
+
+	
+	
+	
+
+
+
+
+							
+						
+					
+				
+					
+						
+							
+								
+
+
+
+
+	
+
+
+	
+		
+
+
+
+
+
+
+<li class=" ">
+
+    <a href="/photography/photo-of-the-day/history/" title="History" >History</a>
+
+	
+
+</li>
+
+	
+	
+	
+
+
+
+
+							
+						
+					
+				
+					
+						
+							
+								
+
+
+
+
+	
+
+
+	
+		
+
+
+
+
+
+
+<li class=" ">
+
+    <a href="/photography/photo-of-the-day/landscapes/" title="Landscapes" >Landscapes</a>
+
+	
+
+</li>
+
+	
+	
+	
+
+
+
+
+							
+						
+					
+				
+					
+						
+							
+								
+
+
+
+
+	
+
+
+	
+		
+
+
+
+
+
+
+<li class=" ">
+
+    <a href="/photography/photo-of-the-day/nature-weather/" title="Nature and Weather" >Nature and Weather</a>
+
+	
+
+</li>
+
+	
+	
+	
+
+
+
+
+							
+						
+					
+				
+					
+						
+							
+								
+
+
+
+
+	
+
+
+	
+		
+
+
+
+
+
+
+<li class=" ">
+
+    <a href="/photography/photo-of-the-day/people-culture/" title="People and Culture" >People and Culture</a>
+
+	
+
+</li>
+
+	
+	
+	
+
+
+
+
+							
+						
+					
+				
+					
+						
+							
+								
+
+
+
+
+	
+
+
+	
+		
+
+
+
+
+
+
+<li class=" ">
+
+    <a href="/photography/photo-of-the-day/science-space/" title="Science and Space" >Science and Space</a>
+
+	
+
+</li>
+
+	
+	
+	
+
+
+
+
+							
+						
+					
+				
+					
+						
+							
+								
+
+
+
+
+	
+
+
+	
+		
+
+
+
+
+
+
+<li class=" ">
+
+    <a href="/photography/photo-of-the-day/travel/" title="Travel" >Travel</a>
+
+	
+
+</li>
+
+	
+	
+	
+
+
+
+
+							
+						
+					
+				
+					
+						
+							
+								
+
+
+
+
+	
+
+
+	
+		
+
+
+
+
+
+
+<li class=" ">
+
+    <a href="/photography/photo-of-the-day/underwater/" title="Underwater" >Underwater</a>
+
+	
+
+</li>
+
+	
+	
+	
+
+
+
+
+							
+						
+					
+				
+					
+						
+							
+								
+
+
+
+
+	
+
+
+	
+		
+
+
+
+
+
+
+<li class=" ">
+
+    <a href="/photography/photo-of-the-day/archive/" title="Archive by Date" >Archive by Date</a>
+
+	
+
+</li>
+
+	
+	
+	
+
+
+
+
+							
+						
+					
+				
+					
+						
+							
+								
+
+
+
+
+	
+
+
+	
+		
+
+
+
+
+
+
+<li class="last">
+
+    <a href="/photography/best-of-photo-of-the-day/" title="Best of Photo of the Day" >Best of Photo of the Day</a>
+
+	
+
+</li>
+
+	
+	
+	
+
+
+
+
+							
+						
+					
+					
+			
+			
+
+		
+		</ul>
+
+
+
+
+
+				
+			
+				
+
+
+	
+
+
+		
+		
+		
+			</div><!-- .promo_collection -->
+		
+	
+
+
+			
+	             		
+		
+		
+			
+		
+
+    
+
+
+
+	
+
+
+
+
+		
+		
+
+    
+
+		
+					
+		
+
+    
+
+		
+			
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+    
+
+    
+		
+		
+				
+		
+
+
+			
+            
+
+			
+	 		
+
+	<div class="ecommerce-section split-design Primary">
+		
+			<div class="promo_collection">
+		
+		
+				
+
+
+
+
+
+
+
+	
+	
+		
+			<h3 class="title">Shop National Geographic</h3>
+		
+	
+		
+		
+			<p>Free Shipping! Hurry Limited Time Offer</p>
+		 
+		
+		
+		<ul>
+
+			
+			
+			    
+					
+						
+							
+
+
+
+
+	
+
+		
+			
+					
+					</ul>
+					<div class="split_left">
+					
+
+
+
+
+
+
+
+	
+		
+		<div class="ecommerce_first_img">
+		    	<a class="teaser-img-thumb-first" href="http://shop.nationalgeographic.com/ngs/browse/productDetail.jsp?productId=2000088&code=NG2P7710038" title="&lt;i&gt;The Complete National Geographic&lt;/i&gt;">
+					
+
+
+	<img src="http://images.nationalgeographic.com/wpf/media-live/photos/000/112/custom/sf-complete-national-geographic_11298_120x120.jpg"  width="120" height="120" alt="952.jpg" />	
+
+</a>
+		</div>
+
+		
+		<div class="ecommerce_secondary">
+		<ul>
+			<li class="first">
+				<div class="description">
+
+	
+
+	
+	
+
+		<a href="http://shop.nationalgeographic.com/ngs/browse/productDetail.jsp?productId=2000088&code=NG2P7710038" title="&lt;i&gt;The Complete National Geographic&lt;/i&gt;" ><i>The Complete National Geographic</i></a>
+
+		
+		
+			
+
+				
+						<br/><span class="item-price item-price-slashed">&nbsp;$79.95</span>
+					<span class="sale-price">&nbsp;$69.95</span>
+				
+
+			
+		</a>
+	
+		</div>
+	
+</li>
+
+
+				
+			
+		
+
+
+
+
+
+						
+					
+					
+			    
+					
+						
+							
+								
+
+
+
+
+	
+
+		
+			</ul></div></div><div class="split_right"><ul>
+			
+
+
+
+
+
+
+<li >
+
+    <div class="description"><a href="http://shop.nationalgeographic.com/ngs/browse/productDetail.jsp?productId=6200645&code=NG2P7710039" title="&quot;Simply Beautiful&quot; Photographs Book" >"Simply Beautiful" Photographs Book</a>
+		
+			
+
+					
+						<br/><span class="item-price">&nbsp;$35.00</span>
+
+					
+			
+		
+
+</div>
+
+	
+
+</li>
+
+			
+			
+		
+
+
+
+
+
+							
+						
+					
+					
+			    
+					
+						
+							
+								
+
+
+
+
+	
+
+		
+			
+			
+
+
+
+
+
+
+<li class="last" >
+
+    <div class="description"><a href="http://shop.nationalgeographic.com/ngs/browse/familyProductDetail.jsp?productId=L031&code=NG2P7710040" title="Earth Explorer Camera Bag" >Earth Explorer Camera Bag</a>
+		
+			
+
+					
+						<br/>&nbsp;<span class="item-price-slashed">$158.00</span>
+						<span class="sale-price">&nbsp;$148.00</span>
+
+					
+			
+		
+
+</div>
+
+	
+
+</li>
+
+			
+			</ul></div><ul>
+		
+
+
+
+
+
+							
+						
+					
+					
+			    
+			
+			
+
+		
+		</ul>
+
+
+
+
+
+				
+
+
+	
+	<p class="action"><a href="http://shop.nationalgeographic.com/ngs/index.jsp?code=NG2P7710028">SHOP NOW &raquo;</a></p>
+	
+
+
+		
+		
+			</div><!-- .promo_collection -->
+		
+	</div>
+
+
+			
+	             		
+		
+		
+			
+		
+
+    
+
+
+
+	
+
+
+
+
+		
+		
+
+    
+
+		
+					
+		
+
+    
+
+				<div class="advertisement sponsored_links">
+					<!-- advertising -->
+
+<div id="advertisingModuleZonepod_travel_2300x250">
+
+
+	
+		<script type="text/javascript" charset="utf-8">
+		//<![CDATA[
+		// uri: /photo-of-the-day/
+		// site_name: photography
+		// zone: pod_travel_2
+		// width: 300
+		// height: 250
+		// keywords: 
+		// bust: 596508909
+		// tile: 179
+		// refreshable: False
+		// regex: ^/[.]*
+		// page_taxonomy: photography.nationalgeographic.com::photography::photo-of-the-day::Travel
+		// ad_taxonomy: photography.nationalgeographic.com::photography::photo-of-the-day::Travel
+		// taxonomy_match: True
+			var only;
+			if (typeof only == 'undefined'){only=1;dc=";dcopt=ist";} 
+			else {only+=1;dc="";}
+
+			var bust;
+			if (typeof bust == 'undefined') {
+				bust = Math.floor(1000000*Math.random());
+			}
+		   if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || navigator.userAgent.indexOf("WebTV")>= 0) {
+		   document.write('<a href="http://ad.doubleclick.net/jump/ng.photography/pod_travel_2'+dc+';sz=300x250;tile='+only+';ord='+bust+'">');
+		   document.write('<img src="http://ad.doubleclick.net/ad/ng.photography/pod_travel_2'+dc+';sz=300x250;tile='+only+';ord='+bust+'" border="0" height="250" width="300" /></a>');
+		   } else {
+		   document.write('<scr' + 'ipt language="JavaScript1.1" src="http://ad.doubleclick.net/adj/ng.photography/pod_travel_2'+dc+';sz=300x250;tile='+only+';ord='+bust+'">');
+		   document.write('<a href="http://ad.doubleclick.net/jump/ng.photography/pod_travel_2'+dc+';sz=300x250;tile='+only+';ord='+bust+'">');
+		   document.write('<img src="http://ad.doubleclick.net/ad/ng.photography/pod_travel_2'+dc+';sz=300x250;tile='+only+';ord='+bust+'" border="0" height="250" width="300" /></a>');
+		   document.write('</scr' + 'ipt>');
+		   }
+		//]]>
+		</script>	
+		<noscript>
+			<a href="http://ad.doubleclick.net/jump/ng.photography/pod_travel_2;sz=300x250;tile=179;ord=596508909">
+			<img src="http://ad.doubleclick.net/ad/ng.photography/pod_travel_2;sz=300x250;tile=179;ord=596508909" border="0" height="250" width="300" /></a>
+		</noscript>
+
+</div>
+
+				</div><!-- .advertisement -->
+			
+
+          	</div><!-- content_mainB -->
+
+	</div><!-- #content_page_specific -->
+
+	<hr class="hidden" />
+
+	
+
+    
+
+		
+			
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+    
+
+    
+		
+		
+				
+		
+
+
+			
+            
+
+			
+	 		
+
+
+
+
+
+  
+	
+	<div class="promo_collection carousel js_enabled seven">
+    
+	
+		
+
+
+
+
+
+
+
+	
+	
+		
+			<h3 class="title">More Photography From National Geographic</h3>
+		
+	
+		
+		 
+		
+		
+		<ul class="jcarousel-skin-geocore restrain seven">
+
+			
+			
+			 
+					
+						
+							
+
+
+
+
+
+
+	
+	<li class="first">
+		
+		    <a href="/photography/photos/patterns-landscapes/" title="Patterns in Nature: Landscapes">
+				
+
+
+	<img src="http://images.nationalgeographic.com/wpf/media-live/photos/000/093/cache/antelope-canyon_9384_100x75.jpg"  width="100" height="75" alt="Photo: Antelope Canyon, Arizona" />	
+
+
+			</a>
+			
+	
+    <p class="headline"><a href="/photography/photos/patterns-landscapes/" title="Patterns in Nature: Landscapes" >Patterns in Nature: Landscapes</a></p>
+</li>
+
+
+						
+					
+				
+					
+						
+							
+								
+
+
+
+
+
+
+	
+	<li class=" ">
+		
+		    <a href="http://traveler.nationalgeographic.com/world-in-focus/gallery-2010" title="&quot;World in Focus&quot; Galleries">
+				
+
+
+	<img src="http://images.nationalgeographic.com/wpf/media-live/photos/000/239/cache/traveler-wif-monks_23916_100x75.jpg"  width="100" height="75" alt="Photo: Three Young Monks Jump in the Air." />	
+
+
+			</a>
+			
+	
+    <p class="headline"><a href="http://traveler.nationalgeographic.com/world-in-focus/gallery-2010" title="&quot;World in Focus&quot; Galleries" >"World in Focus" Galleries</a></p>
+</li>
+
+
+							
+						
+					
+				
+					
+						
+							
+								
+
+
+
+
+
+
+	
+	<li class=" ">
+		
+		    <a href="/photography/photos/patterns-nature-rainbows/" title="Rainbow Wallpapers">
+				
+
+
+	<img src="http://images.nationalgeographic.com/wpf/media-live/photos/000/014/cache/rainbow-tree-joubert_1499_100x75.jpg"  width="100" height="75" alt="Photo: Rainbow over a baobab tree" />	
+
+
+			</a>
+			
+	
+    <p class="headline"><a href="/photography/photos/patterns-nature-rainbows/" title="Rainbow Wallpapers" >Rainbow Wallpapers</a></p>
+</li>
+
+
+							
+						
+					
+				
+					
+						
+							
+								
+
+
+
+
+
+
+	
+	<li class=" ">
+		
+		    <a href="/photography/photos/climbing-mount-everest/" title="Climbing Mount Everest">
+				
+
+
+	<img src="http://images.nationalgeographic.com/wpf/media-live/photos/000/104/cache/crampon-view_10478_100x75.jpg"  width="100" height="75" alt="Photo: A view straight down into a Mount Everest crevasse" />	
+
+
+			</a>
+			
+	
+    <p class="headline"><a href="/photography/photos/climbing-mount-everest/" title="Climbing Mount Everest" >Climbing Mount Everest</a></p>
+</li>
+
+
+							
+						
+					
+				
+					
+						
+							
+								
+
+
+
+
+
+
+	
+	<li class=" ">
+		
+		    <a href="http://adventure.nationalgeographic.com/2009/06/national-parks/ultimate-parks-photography" title="Ultimate Parks Galleries">
+				
+
+
+	<img src="http://images.nationalgeographic.com/wpf/media-live/photos/000/086/cache/adv-ultimate-parks09_8639_100x75.jpg"  width="100" height="75" alt="Photo: Glacier National Park" />	
+
+
+			</a>
+			
+	
+    <p class="headline"><a href="http://adventure.nationalgeographic.com/2009/06/national-parks/ultimate-parks-photography" title="Ultimate Parks Galleries" >Ultimate Parks Galleries</a></p>
+</li>
+
+
+							
+						
+					
+				
+					
+						
+							
+								
+
+
+
+
+
+
+	
+	<li class=" ">
+		
+		    <a href="/photography/photos/north-pole-expeditions/" title="North Pole Expeditions">
+				
+
+
+	<img src="http://images.nationalgeographic.com/wpf/media-live/photos/000/104/cache/peary-arctic-expedition_10496_100x75.jpg"  width="100" height="75" alt="Photo: Peary Arctic expedition" />	
+
+
+			</a>
+			
+	
+    <p class="headline"><a href="/photography/photos/north-pole-expeditions/" title="North Pole Expeditions" >North Pole Expeditions</a></p>
+</li>
+
+
+							
+						
+					
+				
+					
+						
+							
+								
+
+
+
+
+
+
+	
+	<li class=" ">
+		
+		    <a href="/travel/national-parks/state-of-the-parks/" title="State of the Parks">
+				
+
+
+	<img src="http://images.nationalgeographic.com/wpf/media-live/photos/000/207/overrides/national-park-zion-today_20728_100x75.jpg"  width="100" height="75" alt="Photo: Clouds above red rock formations" />	
+
+
+			</a>
+			
+	
+    <p class="headline"><a href="/travel/national-parks/state-of-the-parks/" title="State of the Parks" >State of the Parks</a></p>
+</li>
+
+
+							
+						
+					
+				
+					
+						
+							
+								
+
+
+
+
+
+
+	
+	<li class=" ">
+		
+		    <a href="http://ngm.nationalgeographic.com/2010/10/allards-west/allard-photography" title="50 Years of Photos">
+				
+
+
+	<img src="http://images.nationalgeographic.com/wpf/media-live/photos/000/271/cache/allard-basque_27121_100x75.jpg"  width="100" height="75" alt="allard-basque--c.jpg" />	
+
+
+			</a>
+			
+	
+    <p class="headline"><a href="http://ngm.nationalgeographic.com/2010/10/allards-west/allard-photography" title="50 Years of Photos" >50 Years of Photos</a></p>
+</li>
+
+
+							
+						
+					
+				
+					
+						
+							
+								
+
+
+
+
+
+
+	
+	<li class=" ">
+		
+		    <a href="/travel/abu-dhabi-photos/" title="Photos: Abu Dhabi">
+				
+
+
+	<img src="http://images.nationalgeographic.com/wpf/media-live/photos/000/249/overrides/hotel-abu-dhabi-luxury_24949_100x75.jpg"  width="100" height="75" alt="Photo: People sitting poolside with a mosque in the background" />	
+
+
+			</a>
+			
+	
+    <p class="headline"><a href="/travel/abu-dhabi-photos/" title="Photos: Abu Dhabi" >Photos: Abu Dhabi</a></p>
+</li>
+
+
+							
+						
+					
+				
+					
+						
+							
+								
+
+
+
+
+
+
+	
+	<li class=" ">
+		
+		    <a href="http://ngm.nationalgeographic.com/2010/10/photo-journal/veasey-photography" title="X-Ray Visions">
+				
+
+
+	<img src="http://images.nationalgeographic.com/wpf/media-live/photos/000/260/cache/x-ray-reading-paper_26033_100x75.jpg"  width="100" height="75" alt="Photo: X-Ray photograph of a man reading the newspaper" />	
+
+
+			</a>
+			
+	
+    <p class="headline"><a href="http://ngm.nationalgeographic.com/2010/10/photo-journal/veasey-photography" title="X-Ray Visions" >X-Ray Visions</a></p>
+</li>
+
+
+							
+						
+					
+				
+					
+						
+							
+								
+
+
+
+
+
+
+	
+	<li class=" ">
+		
+		    <a href="/travel/countries/peru-photos/" title="Peru Photos">
+				
+
+
+	<img src="http://images.nationalgeographic.com/wpf/media-live/photos/000/068/cache/inca-mares-peru_6856_100x75.jpg"  width="100" height="75" alt="Photo: Circular agricultural experiment" />	
+
+
+			</a>
+			
+	
+    <p class="headline"><a href="/travel/countries/peru-photos/" title="Peru Photos" >Peru Photos</a></p>
+</li>
+
+
+							
+						
+					
+				
+					
+						
+							
+								
+
+
+
+
+
+
+	
+	<li class=" ">
+		
+		    <a href="http://video.nationalgeographic.com/video/player/specials/photography-specials/photo-tips/accessories-photo-tips.html" title="Photo Tips Videos">
+				
+
+
+	<img src="http://images.nationalgeographic.com/wpf/media-live/photos/000/086/cache/photo-tips-vid-accessories_8642_100x75.jpg"  width="100" height="75" alt="Photo: Hands holding a camera" />	
+
+
+			</a>
+			
+	
+    <p class="headline"><a href="http://video.nationalgeographic.com/video/player/specials/photography-specials/photo-tips/accessories-photo-tips.html" title="Photo Tips Videos" >Photo Tips Videos</a></p>
+</li>
+
+
+							
+						
+					
+				
+					
+						
+							
+								
+
+
+
+
+
+
+	
+	<li class="last">
+		
+		    <a href="http://www.nationalgeographicexpeditions.com/triptypes/photography?utm_source=NGdotcom-Photo&utm_medium=Link&utm_content=Carousel&utm_campaign=NGdotcom" title="Photo Expeditions">
+				
+
+
+	<img src="http://images.nationalgeographic.com/wpf/media-live/photos/000/175/cache/photo-expeditions-bhutan_17580_100x75.jpg"  width="100" height="75" alt="Photo: Dancers" />	
+
+
+			</a>
+			
+	
+    <p class="headline"><a href="http://www.nationalgeographicexpeditions.com/triptypes/photography?utm_source=NGdotcom-Photo&utm_medium=Link&utm_content=Carousel&utm_campaign=NGdotcom" title="Photo Expeditions" >Photo Expeditions</a></p>
+</li>
+
+
+							
+						
+					
+					
+			
+			
+
+		
+		</ul>
+
+
+
+
+	
+		
+	
+	
+
+
+	
+
+
+    
+	
+	</div><!-- .promo_collection -->
+
+
+
+
+
+			
+	             		
+		
+		
+			
+		
+
+    
+
+
+
+	
+
+
+
+
+		
+		
+
+    
+
+	
+	
+	
+    
+
+		
+		
+
+    
+
+
+                </div><!-- #content -->
+
+    
+
+    
+                <hr class="hidden"/>
+    
+
+    
+                <!-- ### SITE FOOTER ### -->
+                <div class="footer" id="footer_site">
+                    
+
+        
+                    <div id="footer_breadcrumb">
+                        <ul>
+                            <li class="nav1"><a href="http://www.nationalgeographic.com" id="intl_link_breadcrumb_home">National Geographic Home &raquo;</a></li>
+                            
+                                
+                            <li class="nav2 "><a href="/photography">Photography &raquo;</a></li>
+                                
+
+                                
+                            <li class="nav3 selected">Storm Clouds, Utah</li>
+                                
+                            
+                        </ul>
+                        
+                    </div><!-- #footer_breadcrumb -->
+        
+                </div><!-- #footer_site -->
+    
+
+    
+            </div><!-- #container -->
+        </div><!-- #body_wrap -->
+    
+
+    
+        <hr class="hidden"/>
+    
+
+    
+        <!-- ### GLOBAL FOOTER (UNIFIED THEME) ### -->
+<div class="footer section" id="footer_global">
+	<h2 class="hidden">National Geographic Site-Wide Navigation</h2>
+
+	<ul class="nav nav_global_tierA">
+			<li class="nav1"><a href="http://www.nationalgeographic.com" id="intl_link_footer_home">Home</a></li>
+			<li class="nav2"><a href="/photography/">Photography</a></li>
+			<li class="nav3"><a href="/animals/">Animals</a></li>
+			<li class="nav4"><a href="/environment/">Environment</a></li>
+			<li class="nav5"><a href="/travel/">Travel</a></li>
+			<li class="nav6"><a href="/adventure/">Adventure</a></li>
+			<li class="nav7"><a href="http://natgeotv.com/" id="intl_link_footer_natgeotv">NatGeoTV</a></li>
+			<li class="nav8"><a href="http://kids.nationalgeographic.com"  id="intl_link_footer_kids">Kids</a></li>
+			<li class="nav9"><a href="http://video.nationalgeographic.com">Video</a></li>
+			<li class="nav10"><a href="http://shop.nationalgeographic.com/ngs/index.jsp?code=NG94010" id="intl_link_footer_shop">Shop</a></li>
+		</ul>	
+	<ul class="nav nav_global_tierB">
+		<li class="nav13"><a href="/news/">Daily News</a></li>
+		<li class="nav01"><a href="http://ngm.nationalgeographic.com">The Magazine</a></li>
+		<li class="nav02"><a href="/maps">Maps</a></li>
+		<li class="nav04"><a href="/science/">Science &amp; Space</a></li>
+		<li class="nav05"><a href="/education/">Education</a></li>
+		<li class="nav06"><a href="http://games.nationalgeographic.com/">Games</a></li>
+		<li class="nav07"><a href="/worldmusic/">Music</a></li>
+		<li class="nav08"><a href="http://blogs.nationalgeographic.com/">Blogs</a></li>
+		<li class="nav09"><a href="/movies/">Movies</a></li>
+		<li class="nav10"><a href="/field/">In the Field</a></li>
+		<li class="nav11"><a href="/mobile">Mobile</a></li>
+		<li class="nav12"><a href="/siteindex/">Site Index</a></li>
+	</ul>
+
+	<ul class="nav nav_global_tierC">
+		<li class="nav01"><a href="/magazines/" id="intl_link_footer_subscriptions">Subscriptions</a></li>
+		<li class="nav02"><a href="http://gallery.pictopia.com/natgeo/">Buy Prints</a></li>
+		<li class="nav03"><a href="http://www.ngdigitalmotion.com/">Stock Footage</a></li>
+		<li class="nav03"><a href="http://www.nationalgeographicSTOCK.com">Stock Photos</a></li>
+		<li class="nav04"><a href="http://www.nationalgeographicexpeditions.com/">Travel With Us</a></li>
+		<li class="nav05"><a href="/community/register/">Newsletters</a></li>
+		<li class="nav06"><a href="/jobs">Jobs</a></li>
+		<li class="nav07"><a href="/siteindex/international/">Global Sites</a></li>
+		<li class="nav08"><a href="/about/">About</a></li>
+		<li class="nav09"><a href="/community/email/">Contact</a></li>
+	</ul>
+	
+	<ul class="nav nav_global_tierD">		
+		<li class="nav03"><a href="/donate/">Donate</a></li>
+		<li class="nav04"><a href="/pressroom/">Press Room</a></li>
+		<li class="nav05"><a href="/siteindex/customer/">Customer Service</a></li>
+		<li class="nav06"><a href="/about/advertising/">Advertise With Us</a></li>
+		<li class="nav07"><a href="/community/terms/">Terms of Service</a></li>
+		<li class="nav08"><a href="/community/privacy/">Privacy Policy</a></li>
+	</ul>
+	<p id="copyright">&copy; 1996-2010 National Geographic Society. All rights reserved.</p>
+</div><!-- #footer_global -->
+
+    
+
+    
+
+    
+
+    
+    
+        
+        <!-- advertising -->
+
+<div id="advertisingModuleZonepod_travel1x1">
+
+
+	
+		<script type="text/javascript" charset="utf-8">
+		//<![CDATA[
+		// uri: /photo-of-the-day/
+		// site_name: photography
+		// zone: pod_travel
+		// width: 1
+		// height: 1
+		// keywords: 
+		// bust: 784876230
+		// tile: 165
+		// refreshable: False
+		// regex: ^/[.]*
+		// page_taxonomy: photography.nationalgeographic.com::photography::photo-of-the-day::Travel
+		// ad_taxonomy: photography.nationalgeographic.com::photography::photo-of-the-day::Travel
+		// taxonomy_match: True
+			var only;
+			if (typeof only == 'undefined'){only=1;dc=";dcopt=ist";} 
+			else {only+=1;dc="";}
+
+			var bust;
+			if (typeof bust == 'undefined') {
+				bust = Math.floor(1000000*Math.random());
+			}
+		   if ((!document.images && navigator.userAgent.indexOf('Mozilla/2.') >= 0) || navigator.userAgent.indexOf("WebTV")>= 0) {
+		   document.write('<a href="http://ad.doubleclick.net/jump/ng.photography/pod_travel'+dc+';sz=1x1;tile='+only+';ord='+bust+'">');
+		   document.write('<img src="http://ad.doubleclick.net/ad/ng.photography/pod_travel'+dc+';sz=1x1;tile='+only+';ord='+bust+'" border="0" height="1" width="1" /></a>');
+		   } else {
+		   document.write('<scr' + 'ipt language="JavaScript1.1" src="http://ad.doubleclick.net/adj/ng.photography/pod_travel'+dc+';sz=1x1;tile='+only+';ord='+bust+'">');
+		   document.write('<a href="http://ad.doubleclick.net/jump/ng.photography/pod_travel'+dc+';sz=1x1;tile='+only+';ord='+bust+'">');
+		   document.write('<img src="http://ad.doubleclick.net/ad/ng.photography/pod_travel'+dc+';sz=1x1;tile='+only+';ord='+bust+'" border="0" height="1" width="1" /></a>');
+		   document.write('</scr' + 'ipt>');
+		   }
+		//]]>
+		</script>	
+		<noscript>
+			<a href="http://ad.doubleclick.net/jump/ng.photography/pod_travel;sz=1x1;tile=165;ord=784876230">
+			<img src="http://ad.doubleclick.net/ad/ng.photography/pod_travel;sz=1x1;tile=165;ord=784876230" border="0" height="1" width="1" /></a>
+		</noscript>
+
+</div>
+
+    
+	<!-- Google Code for Photography.NationalGeographic.com (For Store) Remarketing List -->
+	<script type="text/javascript">
+	/* <![CDATA[ */
+	var google_conversion_id = 1071678606;
+	var google_conversion_language = "en";
+	var google_conversion_format = "3";
+	var google_conversion_color = "666666";
+	var google_conversion_label = "CJQ1CNX-gAIQjomC_wM";
+	var google_conversion_value = 0;
+	/* ]]> */
+	</script>
+	<script type="text/javascript" src="http://www.googleadservices.com/pagead/conversion.js">
+	</script>
+	<noscript>
+	<div style="display:inline;">
+	<img height="1" width="1" style="border-style:none;" alt="" src="http://www.googleadservices.com/pagead/conversion/1071678606/?label=CJQ1CNX-gAIQjomC_wM&amp;guid=ON&amp;script=0"/>
+	</div>
+	</noscript>
+
+
+
+    
+        <!-- OMNITURE -->
+        <!-- webanalytics -->
+<div style="display:none;">
+<script language="JavaScript">
+<!--
+// regex: ^/(best-of-photo-of-the-day|gallery-page|best-of-pod|photogalleries|photographers|photo-tips|wallpapers|photo-camp|photo-of-the-day|see-all-photos)(|/)$
+var ngs_furl="/photo-of-the-day/";
+var ngs_contentgroup="Photography|photo-of-the-day|Main"; 
+var ngs_reportsuite="natgeophoto";
+var ngs_channel="";
+var ngs_pagenumber="";
+var ngs_event="";
+// -->
+</script>
+<script language="JavaScript" src="http://www.nationalgeographic.com/stats/omniture_code.js"></script>
+</div>
+<!-- /webanalytics -->
+    
+
+    <script type="text/javascript"> 
+        var addthis_ng_custom_titleElement = document.getElementsByTagName('title')[0].text;
+        var addthis_ng_custom_pagehref = 'http://on.natgeo.com/hQeO7h';
+        var addthis_share = {
+            templates: { twitter: addthis_ng_custom_titleElement + ': ' + addthis_ng_custom_pagehref + ' via @NatGeoSociety' }
+        };
+    </script>
+    
+    <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#username=ng-dmg"></script>
+
+
+
+
+    <script type="text/javascript" charset="utf-8">
+
+        $('#ssoauth').prepend('<p class="action"><a class="rpxnow" style="display: none;" href="'+ssoURL+'">Sign In</a></p>');
+
+        $.getScript(
+        (("https:" == document.location.protocol) ? "https://": "http://static.") + "rpxnow.com/js/lib/rpx.js",
+        function() {
+            RPXNOW.overlay = true;
+            RPXNOW.language_preference = 'en';
+            RPXNOW.token_url = 'http://'+baseURL+'/rest/sso/rpx_response/?next='+pathURL+'';
+            RPXNOW.realm = rpxNowRealm;
+        });
+
+        getUser();
+
+        function getUser() {
+            var requestBatch = new RequestBatch();
+
+            //requesting a UserKey() with no parameter returns a User object for the current user
+            // -- if the user is unauthenticated, the User object is our generic anonymous user
+            requestBatch.AddToRequest(new UserKey());
+            requestBatch.BeginRequest(process_url, getUserCallback);
+        }
+
+        function getUserCallback(responseBatch) {
+            var loggedIn = false;
+            var anonUser = responseBatch.Responses[0].User.UserKey.Key;
+            var dispName = responseBatch.Responses[0].User.DisplayName;
+            var personaURL = responseBatch.Responses[0].User.PersonaUrl;
+            var tempPersonaURL = personaURL.split(".com");
+            personaURL = 'http://www.nationalgeographic.com'+tempPersonaURL[1];
+            var qString = window.location.search.substring(1);
+            if (qString) {
+             pathURL = pathURL+'?'+qString;
+            }
+
+            if (anonUser == 'anonymous') {
+                $('#ssoauth .rpxnow').show();
+            } else {
+                loggedIn = true;
+                $('#ssoauth .rpxnow').hide();
+                $('#ssoauth').prepend('<p class="welcome_msg">Hi,&nbsp;<a href="' + personaURL + '" title="Go to your profile">' + dispName + '</a></p><p class="action"><a class="logout" href="/rest/sso/rpx_logout/">Sign Out</a></p>');
+            }
+        }
+
+        function getCommentsInfo() {
+            var requestBatch = new RequestBatch();
+            requestBatch.AddToRequest(new ArticleKey(articleKey));
+            requestBatch.BeginRequest(process_url, getCommentsInfoCallback);
+        }
+
+        function getCommentsInfoCallback(response){
+            (typeof(response.Responses[0]) === 'undefined') ? cdata = '0' : cdata = response.Responses[0].Article;
+            (cdata === '0') ? totalComments = '0' : totalComments = cdata.Comments.NumberOfComments;
+            $('#share_buttons h3').after('<div class="pluck"><p><a href="#ng_comments" class="comments">Comments (<span class="count">'+totalComments+'</span>)</a></p></div>');
+        }
+
+        if (typeof(articleKey) != 'undefined') {
+            getCommentsInfo();
+        }
+
+        // Advance the "recommend" counter when the button is clicked.  Function called in Pluck templates through "onClick" attribute.
+        function recCount(link){
+            var button = link.parent().next('span');
+            var counter = button.find('.recommend_count');
+
+            if (counter.length > 0){
+                var count = parseInt(counter.text());
+                counter.html(count+1);
+            } else {
+                button.append('<span class="recommend_count"> (1)</span>');
+            }
+
+            return false;
+        }
+
+        function shareCount(){
+            var countText = $('#share_buttons .comments .count').text();
+            var count = parseInt(countText);
+            $('#share_buttons .comments .count').html(count+1);
+        }
+
+        pluckAppProxy.registerActivityCallback('CommentCreate', shareCount);
+
+    </script>
+
+</body>
+
+
+
+</html>
+
