@@ -21,7 +21,9 @@ def main():
 
     geo_re_func(geo_img)
     #print geo_img[0]
-    call(['ln', '-sf', '/home/samuel/test/test_git/dlwp/py/'+geo_img[0], '/home/samuel/test/test_git/dlwp/py/wallpaper'])
+
+    #under linux, but it should be done by another script base on OS instead of python-script
+    #call(['ln', '-sf', '/home/samuel/test/test_git/dlwp/py/'+geo_img[0], '/home/samuel/test/test_git/dlwp/py/wallpaper'])
 
 
 
